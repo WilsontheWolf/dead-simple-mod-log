@@ -1,0 +1,14 @@
+{
+  "name": "dead-simple-mod-log",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "WilsontheWolf (https://shorty.systems/)",
+  "license": "Unlicense",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env src/index.js"
+  },
+  "dependencies": {
+    "@projectdysnomia/dysnomia": "^0.1.3"
+  }
+}
